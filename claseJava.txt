@@ -1,0 +1,6 @@
+cat /WasLogs/WAS70/AI003_ENPS_701_10 | grep "startup"
+
+
+
+git config --global http.proxy http://mydomain\\myusername:mypassword@myproxyserver:8080
+
