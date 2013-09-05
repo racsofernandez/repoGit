@@ -1,0 +1,16 @@
+total 1015
+-rw-r--r--    1 xe35628  Administ     1967 Jul 31 10:18 Git Bash.lnk
+-rw-r--r--    1 xe35628  Administ      708 Jun  2 09:30 Git Bash.vbs
+-rw-r--r--    1 xe35628  Administ    38203 Jun  2 09:30 ReleaseNotes.rtf
+drwxr-xr-x  144 xe35628  Administ    40960 Sep  5 14:26 bin
+drwxr-xr-x    4 xe35628  Administ        0 Jul 31 10:18 cmd
+drwxr-xr-x    3 xe35628  Administ        0 Jul 31 10:17 doc
+drwxr-xr-x   13 xe35628  Administ     4096 Jul 31 10:18 etc
+drwxr-xr-x    4 xe35628  Administ        0 Jul 31 10:18 git-cheetah
+drwxr-xr-x   11 xe35628  Administ        0 Jul 31 10:18 lib
+drwxr-xr-x    3 xe35628  Administ        0 Jul 31 10:17 libexec
+-rw-r--r--    1 xe35628  Administ      135 Jul 31 10:18 setup.ini
+drwxr-xr-x    9 xe35628  Administ        0 Jul 31 10:18 share
+drwxr-xr-x    5 xe35628  Administ        0 Jul 31 10:17 ssl
+-rw-r--r--    1 xe35628  Administ   745499 Jul 31 10:18 unins000.dat
+-rwxr-xr-x    1 xe35628  Administ  1243915 Jul 31 10:15 unins000.exe
